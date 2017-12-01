@@ -4085,7 +4085,7 @@ var data = {
         },
         {
             "name": "Laurent TARDIF",
-            "bio": "CI addict, agiliste - PersistentSAS",
+            "bio": "Devops & agiliste  - Zenika",
             "picture": "img/baggers/photo_LaurentTardif.jpg",
             "websites": [
                 {
@@ -4094,8 +4094,8 @@ var data = {
                 }
             ],
             "twitter": "ouelcum",
-            "contact": "laurent.tardif [at] persistentsas.com",
-            "mail": "laurent.tardif@persistentsas.com",
+            "contact": "laurent.tardif [at] zenika.com",
+            "mail": "laurent.tardif@zenika.com",
             "location": "Grenoble",
             "sessions": [
                 {
@@ -4103,27 +4103,30 @@ var data = {
                     "summary": "Introduction aux valeurs et principes de base de l'agilité, et aux fondamentaux de Scrum.<br/>- Présentation ou discussions.<br/>- Découverte ou approfondissements"
                 },
                 {
-                    "title": "Integration Continue :",
-                    "summary": "Outils et méthodes pour les équipes de développement qui veulent réussir dans l'agilité<br/>- Présentation & discussions"
+                    "title": "Devpos :",
+                    "summary": "Outils et méthodes pour les équipes de développement qui veulent réussir dans le chagement Devops<br/>- Présentation & discussions"
                 },
-                {
-                    "title": "Tests automatiques et specification executable : la pratique :",
-                    "summary": "Quelles strategies de tests sont possibles, et que sont les specifications executables"
+				{
+                    "title": "Kafka :",
+                    "summary": "Kafka <br/>- Présentation & discussions"
+                },
+				{
+                    "title": "Kubernetes :",
+                    "summary": " Présentation & discussions"
                 }
             ],
             "tags": [
                 "Java",
                 "Jenkins",
-                "BDD",
                 "Agile",
                 "Scrum",
                 "Kanban",
                 "Ingénierie agile",
-		"Intégration continue",
-                "Test",
+				"Intégration continue",
+                "Devops",
                 "Tests unitaires",
-                "Usine logicielle",
-                "Industrialisation"
+                "Kafka",
+                "Kubernetes"
             ],
             "cities": [
                 "Grenoble"
